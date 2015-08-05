@@ -8,4 +8,4 @@
     $pb->getDevices();
     print_r ($pb);
 
-    $pb->device("Galaxy Note II")->sendSms("9738680253", "Test from PHP script!");
+    $pb->device("Galaxy Note II")->sendSms("(973) 380-0363", "That was from my PHP script...");
