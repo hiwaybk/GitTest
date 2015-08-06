@@ -1,0 +1,10 @@
+Package: bkscripts
+Version: 1.0-1
+Section: base
+Priority: optional
+Architecture: i386
+Depends: perl (>= 5.18.2), mdadm (>= 3.2.5), lvm2 (>= 2.02.98)
+Maintainer: Brian Kelly <GitHub@Brian.Kelly.name>
+Description: Personal Ubuntu maintenance scripts
+ Just some system utilities....
+
