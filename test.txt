@@ -1,3 +1,2 @@
-Hello
-
-http://ubuntuforums.org/showthread.php?t=910717
+How to create .deb package:
+    http://ubuntuforums.org/showthread.php?t=910717
